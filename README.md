@@ -52,4 +52,4 @@ Each page includes a navigation bar so visitors can easily explore your site. Yo
 
 ---
 
-This exercise will prepare you for team collaboration environments and professional software development workflows.
+This exercise will prepare you for team collaboration environments and professional software development workflows
